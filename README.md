@@ -1,4 +1,4 @@
-<img src="assets/header.png" height="300px" width="1500px"><br>
+<img src="assets/header.png"><br>
 
 <!-- Social icons section -->
 <p align="center">
