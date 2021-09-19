@@ -42,7 +42,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=fastboot&show_icons=true&theme=radical&hide_border=true&count_private=true"/></a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&hide_border=true" height="155"></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&hide_border=true" height="195"></a>
 </p>
 
 # 🔧 Skills And Tools
