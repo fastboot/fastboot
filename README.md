@@ -39,7 +39,7 @@
 
 # 🔥 Stats
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
@@ -53,7 +53,7 @@
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&hide_border=true" height="200">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&hide_border=true">
       </a>
     </td>
   </tr>
