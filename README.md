@@ -26,7 +26,7 @@
     <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fastboot.fastboot&color=7b007e&lcolor=630366&style=for-the-badge&logo=Aiqfome"/></a>
 </p>
 
-# 👨‍💻 Know Me better
+## 👨‍💻 Know Me better
 
 - 💻 Software Engineer at [Peak](http://peak.ai)
 
@@ -37,73 +37,32 @@
 - ❤️ I love building things wanna collab reach out [here](https://www.linkedin.com/in/fastboot/)
 
 
-# 🔥 Stats
-<p align="center">
+## ⌨️ I usually code in
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&hide_border=true" height="150">
+
+## 🔥 Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=fastboot&show_icons=true&theme=radical&hide_border=true&count_private=true" height="130"/>
+  </a>
+
+## 🏗️ Contributions   
+
   <a href="https://git.io/streak-stats">
-  <img alt="streak" title="streak" src="https://github-readme-streak-stats.herokuapp.com?user=fastboot&theme=radical&hide_border=true&count_private=true"/>
+  <img alt="streak" title="streak" src="https://github-readme-streak-stats.herokuapp.com?user=fastboot&theme=radical&hide_border=true&count_private=true" height="130"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=fastboot&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&hide_border=true" height="190">
-  </a>
-</p>
 
 
-# 🔧 Skills And Tools
-<p align="center">
-  <a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </a>  
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
-  <a href="https://www.cplusplus.com/doc/tutorial/">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  </a>
-  <a href ="https://aws.com/">
-  <img src="https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazon&logoColor=white">
-  </a>
-  <a href="https://html.com/">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  </a>
-  <a href="https://www.w3schools.com/css/">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  </a>
-  
-  <br>
-  <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  </a>
-  <a href="https://www.json.org/json-en.html">
-    <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white">
-  </a>
-  <a href="https://www.sublimetext.com/">
-    <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  </a>
-  <a href ="https://jestjs.io/">
-  <img src="https://img.shields.io/badge/Jest-yellow?style=for-the-badge&logo=Jest&logoColor=white">
-  </a>
-  <a href="https://www.google.com/intl/en_in/chrome/">
-    <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
-  </a>
-  <br>
-  <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
-  </a>
-  <a href="https://www.sqlite.org/index.html">
-    <img src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white">
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
-  </a>
-</p>
+# 🔧 Skills and Tools
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+<br />
 
