@@ -38,18 +38,18 @@
 
 
 ## ⌨️ I usually code in
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&hide_border=true" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&hide_border=true" height="190">
 
 ## 🔥 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=fastboot&show_icons=true&theme=radical&hide_border=true&count_private=true" height="130"/>
+  <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=fastboot&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
   </a>
 
 ## 🏗️ Contributions   
 
   <a href="https://git.io/streak-stats">
-  <img alt="streak" title="streak" src="https://github-readme-streak-stats.herokuapp.com?user=fastboot&theme=radical&hide_border=true&count_private=true" height="130"/>
+  <img alt="streak" title="streak" src="https://github-readme-streak-stats.herokuapp.com?user=fastboot&theme=radical&hide_border=true&count_private=true" height="160"/>
   </a>
 
 
