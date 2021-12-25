@@ -3,8 +3,6 @@
 <!-- Social icons section -->
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/fastboot"><img width="32px" alt="github" title="github" src="assets/github.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://codestats.net/users/fastboot"><img width="32px" alt="codestats" title="codestats" src="assets/codestats.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/fastboot/" alt="linkedin"><img width="32px" src="assets/linkedin.png"/></a>
