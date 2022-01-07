@@ -68,3 +68,5 @@
 
 
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fastboot" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/fastboot?trk=profile-badge">Pranjal Mishra</a></div>
+              
