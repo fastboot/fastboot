@@ -26,9 +26,9 @@
 
 ## 👨‍💻 Know Me better
 
-- 💻 Software Engineer at [Peak](http://peak.ai)
+- 💻 Software Engineer at [Atlassian](https://www.atlassian.com)
 
-- 🌱 I'm currently learning Typescript, Jest and AWS
+- 🌱 I'm currently learning Kotlin and AWS
 
 - 🧐 Interested in full stack. Recent focus on backend.
 
