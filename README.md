@@ -34,6 +34,9 @@
 
 - ❤️ I love building things wanna collab reach out [here](https://www.linkedin.com/in/fastboot/)
 
+## 🎧 See what I am listening to right now 
+ [>>> Play Now](https://pranjalmishra.com/spotify) 
+
 
 ## ⌨️ I usually code in
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&hide_border=true" height="190">
