@@ -21,7 +21,7 @@
   <a href="https://github.com/fastboot">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fastboot?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/fastboot">
-    <img alt="views" title="GitHub profile views" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fastboot.fastboot&color=7b007e&lcolor=630366&style=for-the-badge&logo=Aiqfome"/></a>
+    <img alt="views" title="GitHub profile views" src="https://vbr.wocr.tk/badge?page_id=fastboot.fastboot&color=7b007e&lcolor=630366&style=for-the-badge&logo=Aiqfome"/></a>
 </p>
 
 ## 👨‍💻 Know Me better
@@ -45,13 +45,13 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="streak" title="streak" src="https://github-readme-stats.vercel.app/api?username=fastboot&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-  </a>
+</a>
 
 ## 🏗️ Contributions   
 
-  <a href="https://git.io/streak-stats">
+<a href="https://git.io/streak-stats">
   <img alt="streak" title="streak" src="https://github-readme-streak-stats.herokuapp.com?user=fastboot&theme=radical&hide_border=true&count_private=true" height="160"/>
-  </a>
+</a>
 
 
 ## 🔧 Skills and Tools
