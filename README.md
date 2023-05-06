@@ -26,7 +26,7 @@
 
 ## 👨‍💻 Know Me better
 
-- 💻 Software Engineer at [Atlassian](https://www.atlassian.com)
+- 💻 Software Engineer 2 at [Atlassian](https://www.atlassian.com)
 
 - 🌱 I'm currently learning Kotlin and AWS
 
