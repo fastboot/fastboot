@@ -30,7 +30,7 @@
 
 - 🌱 I'm currently learning Kotlin and AWS
 
-- 🧐 Interested in full stack. Recent focus on backend.
+- 🧐 Interested in AI/ML and Backend stuff.
 
 - ❤️ I love building things wanna collab reach out [here](https://www.linkedin.com/in/fastboot/)
 
