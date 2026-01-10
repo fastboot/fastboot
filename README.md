@@ -45,4 +45,4 @@
 
 ## 🎧 Listening right now
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pranjal_mishra&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ff0a0a&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=light)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pranjal_mishra&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ff0a0a&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://github.com/kittinan/spotify-github-profile)
