@@ -22,24 +22,13 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fastboot?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## 👨‍💻 Know Me better
+## 👨‍💻 Wanna know more
 
-- 💻 Software Engineer at [Stripe](https://stripe.com/in) <img src="assets/stripe.jpeg" width="16px" height="16px" alt="stripe" title="Stripe" style="vertical-align: middle; margin-left: 4px;"/>
+- 💻 Software Engineer at [Stripe](https://stripe.com/in)
 
 - 🧐 Interested in AI/ML and backend stuff.
 
 - ❤️ I love building things wanna collab reach out [here](https://www.linkedin.com/in/pranjalmishra11/)
-
-- 🎧 <a href="https://pranjalmishra.com/spotify"><img src="https://img.shields.io/badge/Now%20Playing-1DB954?style=flat-square&logo=spotify&logoColor=white&labelColor=1DB954" alt="Now Playing on Spotify" style="vertical-align: middle;"/></a> 
-
-## 🏗️ Contributions   
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img alt="streak" title="streak" src="https://github-readme-streak-stats.herokuapp.com?user=fastboot&theme=radical&hide_border=true&count_private=true" height="160"/>
-  </a>
-</p>
-
 
 ## 🔧 Skills and Tools
 
@@ -53,3 +42,7 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://simpleicons.org/icons/cursor.svg" width="30px" alt="Cursor" title="Cursor"/></span>&nbsp;
+
+## 🎧 Listening right now
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pranjal_mishra&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ff0a0a&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=light)](https://github.com/kittinan/spotify-github-profile)
