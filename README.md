@@ -24,22 +24,21 @@
 
 ## 👨‍💻 Know Me better
 
-- 💻 Software Engineer at [Stripe](https://stripe.com/in) <img src="assets/stripe.jpeg" width="18px" height="18px" alt="stripe" title="Stripe" style="vertical-align: middle; margin-left: 5px;"/>
+- 💻 Software Engineer at [Stripe](https://stripe.com/in) <img src="assets/stripe.jpeg" width="16px" height="16px" alt="stripe" title="Stripe" style="vertical-align: middle; margin-left: 4px;"/>
 
 - 🧐 Interested in AI/ML and backend stuff.
 
 - ❤️ I love building things wanna collab reach out [here](https://www.linkedin.com/in/pranjalmishra11/)
 
-- <a href="https://pranjalmishra.com/spotify" style="text-decoration: none; cursor: pointer;" title="See what I'm listening to right now on Spotify">
-    <img src="assets/spotify_new.png" width="16px" height="16px" style="vertical-align: middle; margin-right: 6px;" />
-    <span style="display: inline-block; padding: 5px 8px; background: #1DB954; border-radius: 6px; color: white; font-weight: bold; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); border: 1px solid #1ed760; cursor: pointer; transition: all 0.2s ease;">Now Playing on Spotify →</span>
-  </a> 
+- 🎧 <a href="https://pranjalmishra.com/spotify"><img src="https://img.shields.io/badge/Now%20Playing-1DB954?style=flat-square&logo=spotify&logoColor=white&labelColor=1DB954" alt="Now Playing on Spotify" style="vertical-align: middle;"/></a> 
 
 ## 🏗️ Contributions   
 
-<a href="https://git.io/streak-stats">
-  <img alt="streak" title="streak" src="https://github-readme-streak-stats.herokuapp.com?user=fastboot&theme=radical&hide_border=true&count_private=true" height="160"/>
-</a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img alt="streak" title="streak" src="https://github-readme-streak-stats.herokuapp.com?user=fastboot&theme=radical&hide_border=true&count_private=true" height="160"/>
+  </a>
+</p>
 
 
 ## 🔧 Skills and Tools
